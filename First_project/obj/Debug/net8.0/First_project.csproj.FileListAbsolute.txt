@@ -1,0 +1,5 @@
+/Users/nicholasvalente/Documents/Personal Projects/dotNET_firstProject/First_.net-c-_App/First_project/obj/Debug/net8.0/First_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasvalente/Documents/Personal Projects/dotNET_firstProject/First_.net-c-_App/First_project/obj/Debug/net8.0/First_project.AssemblyInfoInputs.cache
+/Users/nicholasvalente/Documents/Personal Projects/dotNET_firstProject/First_.net-c-_App/First_project/obj/Debug/net8.0/First_project.AssemblyInfo.cs
+/Users/nicholasvalente/Documents/Personal Projects/dotNET_firstProject/First_.net-c-_App/First_project/obj/Debug/net8.0/First_project.csproj.CoreCompileInputs.cache
+/Users/nicholasvalente/Documents/Personal Projects/dotNET_firstProject/First_.net-c-_App/First_project/obj/Debug/net8.0/First_project.sourcelink.json
